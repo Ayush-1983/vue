@@ -1,4 +1,4 @@
-## ## Hey, this is Ayush 👋
+Hey, this is Ayush 👋
 This is my personal repository created for learning and experimenting with Vue.js.
 ## Vue 2 has reached End of Life
 
